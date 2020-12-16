@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "518695288481",
+    "project_id": "parentive",
+    "storage_bucket": "parentive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518695288481:android:6de9d08c87314b349c3ae0",
+        "android_client_info": {
+          "package_name": "com.example.parentive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518695288481-5g7nucp5kf5c4tndnppois8qpdi8o186.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd9QRlw2X0VPE_fwVCIa_FO3sus62K00w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518695288481-5g7nucp5kf5c4tndnppois8qpdi8o186.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
